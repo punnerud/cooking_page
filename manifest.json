@@ -1,0 +1,16 @@
+{
+    "name": "Cooking Ex Optimizer",
+    "short_name": "Cooking Ex",
+    "description": "Track every cooking temperature at once. Live projections show when each one will hit its finish target.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2c3e50",
+    "icons": [
+        {
+            "src": "static/04_fresh_start.webp",
+            "sizes": "920x2000",
+            "type": "image/webp"
+        }
+    ]
+}
